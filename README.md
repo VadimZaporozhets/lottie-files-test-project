@@ -6,6 +6,12 @@ This is a simple web editor that allow user to add primitive shapes like Square,
 Core technologies used in this project:
 next.js, react-three-fiber, drey, tailwindcss, typescript, zustand.
 
+
+
+https://github.com/user-attachments/assets/03ead4f7-bdec-49ed-801d-72c14d2aea5c
+
+
+
 [Demo](https://lottie-files-test-project.vercel.app/)
 
 ### Adding and manipulating shapes
