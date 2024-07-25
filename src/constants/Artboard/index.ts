@@ -1,0 +1,7 @@
+export const ARTBOARD_SIZE = 500;
+
+export const ELEMENT_CONTROLS_COLOR = '#05B6FC';
+
+export const INITIAL_ELEMENT_POSITION = ARTBOARD_SIZE / 2;
+
+export const DEFAULT_ELEMENT_COLOR = '#FFBE00';
