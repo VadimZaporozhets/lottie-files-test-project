@@ -35,7 +35,7 @@ const PositionProps = () => {
     setElementPosition({
       elementId: selectedElementId,
       positionX: selectedElement.positionX,
-      positionY: y,
+      positionY: -y,
     });
   };
 
@@ -57,8 +57,8 @@ const PositionProps = () => {
         type="number"
         onChange={onYChange}
         value={elementY}
-        min={-ARTBOARD_SIZE}
-        max={-0}
+        min={0}
+        max={ARTBOARD_SIZE}
       />
     </PropTile>
   );
